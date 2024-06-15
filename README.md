@@ -1,6 +1,4 @@
-# Repository for final project 
-
-# Python and AI Development
+# Repository for final project - Python and AI Development
 
 # Emotion Detection Web Application Using Flask
 

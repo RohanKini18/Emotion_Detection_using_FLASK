@@ -1,8 +1,7 @@
 # Repository for final project - Python and AI Development
 
 # Emotion Detection Web Application Using Flask
-My Batch - https://www.credly.com/earner/earned/badge/94abaa71-eefc-4f5c-ad3a-7e9db899b3a3
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="94abaa71-eefc-4f5c-ad3a-7e9db899b3a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+My Batch - https://www.credly.com/badges/94abaa71-eefc-4f5c-ad3a-7e9db899b3a3/public_url
 ## Introduction
 Welcome to the final project for this course! In this project, you will demonstrate your knowledge and skills in app creation and web deployment. The project involves creating an emotion detection application using the Watson AI libraries and deploying it as a web application using Flask. You will also be required to perform various tasks and submit your results with specific nomenclature.
 
